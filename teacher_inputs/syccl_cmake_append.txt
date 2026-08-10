@@ -1,0 +1,6 @@
+
+add_executable(dump_topo dump_topo.cpp ${SOURCE_FILES})
+target_link_libraries(dump_topo PRIVATE
+    ${SCIP_LIBRARIES}
+    ${SCIP_PP_LIB}
+)

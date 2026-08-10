@@ -1,0 +1,83 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# SimPy / simulation outputs
+# =========================
+*.log
+*.out
+*.dat
+*.trace
+*.csv
+
+# If you dump intermediate simulation results
+results/
+outputs/
+logs/
+
+# =========================
+# Jupyter / notebooks (if any)
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# PyCharm / JetBrains
+# =========================
+.idea/
+*.iml
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =========================
+# Editor / OS junk
+# =========================
+*~
+*.swp
+*.swo
+
+# =========================
+# Profiling / debugging
+# =========================
+*.prof
+*.lprof
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+.cache/
+
+# =========================
+# Python version managers
+# =========================
+.python-version
+
+# =========================
+# Coverage / test
+# =========================
+.coverage
+htmlcov/
+.pytest_cache/

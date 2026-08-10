@@ -1,0 +1,44 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- environments ---
+.venv/
+venv/
+env/
+
+# --- data & model artifacts (large, regenerable, not source) ---
+# anchored to repo root only -- do NOT match src/data/, src/models/
+/data/
+/models/
+/models_baseline_*/
+/figures/
+
+# --- external vendored repos (own git history / third-party clones) ---
+/external/TE-CCL/
+/external/SyCCL/
+
+# --- generated results, plots, logs (not source) ---
+/src/eval/plots/
+/src/eval/eda_plots/
+/src/eval/eda/eda_outputs/
+/src/eval/calibration/
+/src/eval/illustrative_examples/
+/src/eval/finetune/
+/src/eval/*.json
+*.csv
+*.png
+*.svg
+*.log
+/Logs/
+/result-default.json
+/e2e_example.json
+/e2e_images.json
+
+# --- editor / tool state ---
+/.claude/
+.Rhistory

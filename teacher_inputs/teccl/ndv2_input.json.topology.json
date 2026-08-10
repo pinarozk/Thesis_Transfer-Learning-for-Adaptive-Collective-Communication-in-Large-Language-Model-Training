@@ -1,0 +1,484 @@
+{
+  "num_nodes": 16,
+  "edges": [
+    {
+      "src": 0,
+      "dst": 1,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 0,
+      "dst": 2,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 0,
+      "dst": 3,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 0,
+      "dst": 4,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 0,
+      "dst": 9,
+      "capacity": 9.52381,
+      "latency": 1.3e-06,
+      "raw_capacity_chunks_per_epoch": 200.0
+    },
+    {
+      "src": 1,
+      "dst": 0,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 1,
+      "dst": 2,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 1,
+      "dst": 3,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 1,
+      "dst": 5,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 2,
+      "dst": 0,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 2,
+      "dst": 1,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 2,
+      "dst": 3,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 2,
+      "dst": 6,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 3,
+      "dst": 0,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 3,
+      "dst": 1,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 3,
+      "dst": 2,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 3,
+      "dst": 7,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 4,
+      "dst": 0,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 4,
+      "dst": 5,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 4,
+      "dst": 6,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 4,
+      "dst": 7,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 5,
+      "dst": 1,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 5,
+      "dst": 4,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 5,
+      "dst": 6,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 5,
+      "dst": 7,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 6,
+      "dst": 2,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 6,
+      "dst": 4,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 6,
+      "dst": 5,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 6,
+      "dst": 7,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 7,
+      "dst": 3,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 7,
+      "dst": 4,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 7,
+      "dst": 5,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 7,
+      "dst": 6,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 8,
+      "dst": 1,
+      "capacity": 9.52381,
+      "latency": 1.3e-06,
+      "raw_capacity_chunks_per_epoch": 200.0
+    },
+    {
+      "src": 8,
+      "dst": 9,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 8,
+      "dst": 10,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 8,
+      "dst": 11,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 8,
+      "dst": 12,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 9,
+      "dst": 8,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 9,
+      "dst": 10,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 9,
+      "dst": 11,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 9,
+      "dst": 13,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 10,
+      "dst": 8,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 10,
+      "dst": 9,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 10,
+      "dst": 11,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 10,
+      "dst": 14,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 11,
+      "dst": 8,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 11,
+      "dst": 9,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 11,
+      "dst": 10,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 11,
+      "dst": 15,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 12,
+      "dst": 8,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 12,
+      "dst": 13,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 12,
+      "dst": 14,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 12,
+      "dst": 15,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 13,
+      "dst": 9,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 13,
+      "dst": 12,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 13,
+      "dst": 14,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 13,
+      "dst": 15,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 14,
+      "dst": 10,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 14,
+      "dst": 12,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 14,
+      "dst": 13,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 14,
+      "dst": 15,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 15,
+      "dst": 11,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 15,
+      "dst": 12,
+      "capacity": 21.73913,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 400.0
+    },
+    {
+      "src": 15,
+      "dst": 13,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    },
+    {
+      "src": 15,
+      "dst": 14,
+      "capacity": 43.478261,
+      "latency": 7e-07,
+      "raw_capacity_chunks_per_epoch": 800.0
+    }
+  ],
+  "switch_indices": [
+    0
+  ],
+  "isolated_nodes": [],
+  "capacity_unit": "GBps",
+  "latency_unit": "s",
+  "source_topology": {
+    "module": "ndv2",
+    "class": "NDv2",
+    "topology_params": {
+      "name": "NDv2",
+      "option": 1,
+      "chassis": 2,
+      "chunk_size": 0.0625
+    }
+  },
+  "note": "capacity converted from TE-CCL chunks/epoch to physical GB/s via rate = 1000 / beta[us per MB]; raw values kept per edge for traceability."
+}
